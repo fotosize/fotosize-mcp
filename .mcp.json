@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fotosize": {
+      "type": "http",
+      "url": "https://fotosize.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${FOTOSIZE_API_KEY}"
+      }
+    }
+  }
+}

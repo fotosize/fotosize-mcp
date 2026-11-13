@@ -55,6 +55,15 @@ npx skills add fotosize/fotosize-mcp
 
 or copy the folder into your agent's skills directory (for Claude Code, `~/.claude/skills/fotosize/`).
 
+
+### One-line prompt for any AI agent
+
+Paste into Claude Code, Cursor, Codex, or Gemini CLI:
+
+```text
+Read https://raw.githubusercontent.com/fotosize/fotosize-mcp/main/skills/fotosize/SKILL.md and crop and verify a compliant passport or visa photo.
+```
+
 ## Support
 
 support@fotosize.com

@@ -1,0 +1,14 @@
+{
+  "name": "fotosize-mcp",
+  "version": "1.0.0",
+  "description": "Passport, visa and ID photo sizes, head size and background rules from official sources.",
+  "mcpServers": {
+    "fotosize": {
+      "type": "http",
+      "url": "https://fotosize.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${FOTOSIZE_API_KEY}"
+      }
+    }
+  }
+}

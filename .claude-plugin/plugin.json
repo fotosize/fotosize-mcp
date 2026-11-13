@@ -1,0 +1,27 @@
+{
+  "name": "fotosize-mcp",
+  "version": "1.0.0",
+  "description": "Passport, visa and ID photo sizes, head size and background rules from official sources.",
+  "author": {
+    "name": "fotosize",
+    "url": "https://fotosize.com"
+  },
+  "homepage": "https://fotosize.com/docs/mcp",
+  "repository": "https://github.com/fotosize/fotosize-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "passport-photo",
+    "visa-photo",
+    "id-photo",
+    "biometric-photo",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json"
+}

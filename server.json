@@ -10,5 +10,9 @@
       "type": "streamable-http",
       "url": "https://fotosize.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/fotosize/fotosize-mcp",
+    "source": "github"
+  }
 }
